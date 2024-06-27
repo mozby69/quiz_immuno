@@ -1,7 +1,7 @@
 let questions = [
   {
     numb: 1,
-    question: "Which immunodominant sugar confers A antigen specificity?hich immunodominant sugar confers A antigen specificity?hich immunodominant sugar confers A antigen specificity?hich immunodominant sugar confers A antigen specificity?hich immunodominant sugar confers A antigen specificity?",
+    question: "Which immunodominant sugar confers A antigen specificity?",
     answer: "N-Acetylgalactosamine",
     options: [
       "D-Galactose",
